@@ -149,34 +149,26 @@ https://www.americasseedfund.us/resources
 - Quantum Science
 
 ### Department of Homeland Security (DHS)
-- Borders and Maritime Security
-- Chemical and Biological Defense
-- Critical Infrastructure and Resilience
-- Cybersecurity
-- Explosives Detection and Aviation Screening
-- First Responders
-Land and Port of Entry (POE) Security Air, land, and port of entry (POE) security
-Hazards, and Risks (PANTHR)
-Probabilistic analysis of national threats,
-Biometrics and Identity Management Biometrics and identity management
-Explosives Threat Assessment Emerging risks and technologies
-Cargo/Baggage/People Screening
-Counter Unmanned Aircraft Systems Counter unmanned aircraft systems
-Forensic and Criminal Investigations Forensic and criminal investigations
-Immigration Services
-Immigration services Maritime Safety and Security
-Maritime safety and security Chem-Bio Detection
-Chem-bio detection Detection Canine Services
-OpiDoiedt/eFcetniotnancyalnDineetescetriovinces
-EmeOrpgiionigd/RFiesknstaannydl dTetcehcntoiolongies
-Probabilistic Analysis of National Threats, Explosives threat assessment
-Cybersecurity
-hazards, and risks (PANTHR)
-Cybersecurity
-Community and Infrastructure Resilience
-Cargo, baggage, and people screening Countering Violent Extremism
-Community and infrastructure resilience First Responder Capability
-PhyCsoicuanltSeericnugrivtyiolent extremism First responder capability Physical security
+- Air, Land, and Port of Entry (POE) Security: Developing technologies and strategies for securing the country's air, land, and sea ports of entry.
+- Biometrics and Identity Management: Creating and improving methods for identifying individuals based on their physical and behavioral characteristics.
+- Borders and Maritime Security: Ensuring the security of the United States’ borders and maritime regions.
+- Cargo, Baggage, and People Screening: Advancing technologies for inspecting and screening cargo, baggage, and people.
+- Chem-Bio Detection: Developing methods for detecting chemical and biological threats.
+- Chemical and Biological Defense: Innovating technologies and strategies to protect against chemical and biological threats.
+- Community and Infrastructure Resilience: Fostering the resilience of communities and infrastructure against disasters and other emergencies.
+- Counter Unmanned Aircraft Systems: Creating systems to defend against unmanned aircraft threats.
+- Cybersecurity: Developing strategies and technologies to protect information systems from cyber threats.
+- Detection Canine Services: Advancing the capabilities of dog units trained to detect explosives, drugs, and other threats.
+- Emerging Risks and Technologies: Researching into new risks and technologies that could affect homeland security.
+- Explosives Detection and Aviation Screening: Improving methods to detect explosives, especially in aviation environments.
+- Explosives Threat Assessment: Assessing and analyzing threats posed by explosives.
+- First Responders: Developing tools and technologies to enhance the capabilities of first responders.
+- Forensic and Criminal Investigations: Advancing technologies and methods used in forensic and criminal investigations.
+- Immigration Services: Enhancing and innovating the technologies used in immigration services.
+- Maritime Safety and Security: Ensuring the security and safety of the country's maritime regions and infrastructure.
+- Opioid/Fentanyl Detection: Developing technologies for the detection of opioids/fentanyl and other illicit drugs.
+- Physical Security: Advancing physical security measures to protect facilities and infrastructure.
+- Probabilistic Analysis of National Threats, Hazards, and Risks (PANTHR): Conducting probabilistic analyses of potential national threats, hazards, and risks.
 
 
 ### Department of Transportation (DOT)
