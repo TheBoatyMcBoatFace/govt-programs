@@ -213,19 +213,6 @@ https://www.americasseedfund.us/resources
 
 ### National Science Foundation (NSF)
 - All areas of technology and market sectors (with the exception of clinical trials)
-TOPIC AREAS / AREAS OF INTEREST
-Topic Areas/Technologies of Interest:
-Topic Areas/Technologies of Interest: America’s
-America’s Seed Fund powered by NSF
-Seed Fund powered by NSF encourages proposals
-encourages proposals in all areas of science
-in all areas of science and engineering. An exact
-and engineering. An exact fit into one of these
-fit into one of these topics or subtopics is not
-topics or subtopics is not required. Download a
-required. Download a searchable PDF of the full
-searchable PDF of the full list of technology
-list of technology topic areas with descriptions.
-topic areas with descriptions.
+
 
 
