@@ -9,7 +9,26 @@ The SBIR and STTR programs fund a diverse portfolio of startups and small busine
 ## Who is Participating?
 Glad you asked. The list is...dynamic, but these are the agencies we've confirmed.
 
-- Department of Homeland Security (DHS)
+- [Department of Homeland Security (DHS)](programs/sbir/agencies/dhs/README.md)
+- [Department of Commerce (DoC)](programs/sbir/agencies/doc/nist/README.md)
+    - [National Institute for Standards & Technology (NIST)](programs/sbir/agencies/doc/nist/README.md)
+    - [National Oceanic & Atmospheric Association (NOAA](programs/sbir/agencies/doc/noaa/README.md)
+- [Department of Defense (DoD)](programs/sbir/agencies/dod/README.md)
+    - [Air Force](programs/sbir/agencies/dod/air-force/README.md)
+    - [Army](programs/sbir/agencies/dod/army/README.md)
+    - [Navy](programs/sbir/agencies/dod/navy/README.md)
+- [Department of Energy (DoE)](programs/sbir/agencies/doe/README.md)
+- [Department of Transportation (DoT)](programs/sbir/agencies/dot/README.md)
+- [Department of Education (ED)](programs/sbir/agencies/ed/README.md)
+- [Environmental Protection Agency (EPA)](programs/sbir/agencies/epa/README.md)
+- [Department of Health and Human Services (HHS)](programs/sbir/agencies/hhs/README.md)
+    - [Centers for Disease Control and Prevention (CDC)](programs/sbir/agencies/hhs/cdc/README.md)
+    - [National Institutes of Health (NIH)](programs/sbir/agencies/hhs/nih/README.md)
+- [National Aeronautics and Space Administration (NASA)](programs/sbir/agencies/nasa/README.md)
+- [National Science Foundation (NSF)](programs/sbir/agencies/nsf/README.md)
+- [United States Department of Agriculture (USDA)](programs/sbir/agencies/usda/README.md)
+
+
 
 
 ## What Type of Projects are Accepted?
